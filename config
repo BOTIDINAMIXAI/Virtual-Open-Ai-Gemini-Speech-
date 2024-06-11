@@ -1,6 +1,6 @@
 import streamlit as st
 
 st.set_option('server.address', '89.117.33.72')  # Reemplaza con tu IP
-st.set_option('server.port', 8502)  # Reemplaza con tu puerto
+st.set_option('server.port', 8501)  # Reemplaza con tu puerto
 
 # Resto de tu código de Streamlit
