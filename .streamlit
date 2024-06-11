@@ -1,2 +1,0 @@
-st.set_option('server.address', '89.117.33.72')  
-st.set_option('server.port', 8503) 
